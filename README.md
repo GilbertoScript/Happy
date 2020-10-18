@@ -13,7 +13,7 @@
 
 <p align="center">
   <img alt="Happy"
-   src="https://github.com/guilhermecapitao/nlw3-discovery-happy/raw/af70825fbff121aa82fc6fa19578ea6be860baae/.github/happy.png">
+   src="https://media-exp1.licdn.com/dms/image/C4D22AQFeoBfVVSKCxw/feedshare-shrink_1280-alternative/0?e=1605744000&v=beta&t=X-7qvr9Xyc505YZwtGxDNW5xDAjyA5hSR3GvUDK-B8k">
 </p>
 
 ## Tecnologias 🚀
