@@ -17,10 +17,10 @@
 
 <p align="center">
   <img alt="Happy"
-   src="https://user-images.githubusercontent.com/59374587/95769033-9a163200-0c8d-11eb-8f43-2930a859f858.png">
+   src="https://github.com/guilhermecapitao/nlw3-discovery-happy/raw/af70825fbff121aa82fc6fa19578ea6be860baae/.github/happy.png">
 </p>
 
-## Technologies 🚀
+## Tecnologias 🚀
 
 - [Node.js](https://nodejs.org/en/)
 - [Express](https://expressjs.com/pt-br/)
