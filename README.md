@@ -30,7 +30,7 @@
 - [CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
 - [HTML](https://html.com/)
 
-## 💻 Sobre
+## 📖 Sobre
 
 Happy é uma aplicação que tem o intuito de cadastrar orfanatos e que você possa fazer visitar os que estiverem mais perto de você. 
 
