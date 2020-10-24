@@ -28,7 +28,7 @@
 
 ## 📖 Sobre
 
-Happy é uma aplicação que tem o intuito de cadastrar orfanatos e que você possa fazer visitar os que estiverem mais perto de você. 
+Happy é uma aplicação que tem o intuito de cadastrar orfanatos e que você possa fazer visitas os que estiverem mais perto de você. 
 
 Esta aplicação foi desenvolvidadurante a Next Level Week da Rocketseat durante os dias 12 a 18 de Outubro de 2020.
 
