@@ -39,6 +39,25 @@ Para visualizar o projeto crie uma conta no Figma e acesse os links abaixo:
 - [Layout Web](https://www.figma.com/file/mDEbnoojksG4w8sOxmudh3/Happy-Web?node-id=0%3A1) 
 - [Layout Mobile](https://www.figma.com/file/X27FfVxAgy9f5IFa7ONlph/Happy-Mobile?node-id=0%3A1) 
 
+## 🤔 Como usar 
+
+   ```
+   - Clone o repositório:
+   $ git clone https://github.com/GilbertoASJ/Happy.git
+
+   - Entre no diretório:
+   $ cd Happy
+
+   - Instale as dependências:
+   $ npm install
+
+   - Execute a aplicação:
+   $ npm start
+
+   - Abra seu navegador em:
+   http://localhost:5500/
+   ```
+
 
 ## 📝 Licença
 
