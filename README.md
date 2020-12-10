@@ -1,3 +1,5 @@
+<h1 align="center">Happy</h1>
+
 <h1 align="center">
     <img alt="Happy" title="Happy" src="https://pbs.twimg.com/media/EkJ6rCrWAAUf8JJ.jpg:large" />
 </h1>
@@ -10,11 +12,6 @@
 </p>
 
 <br>
-
-<p align="center">
-  <img alt="Happy"
-   src="https://media-exp1.licdn.com/dms/image/C4D22AQFeoBfVVSKCxw/feedshare-shrink_1280-alternative/0?e=1605744000&v=beta&t=X-7qvr9Xyc505YZwtGxDNW5xDAjyA5hSR3GvUDK-B8k">
-</p>
 
 ## Tecnologias 🚀
 
